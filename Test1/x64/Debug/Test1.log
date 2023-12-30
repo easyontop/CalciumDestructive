@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Test1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  payloads.cpp
+  Generating Code...
+C:\Users\TUNG\Desktop\(31,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TUNG\Desktop\(55,39): warning C4305: 'argument': truncation from '__int64' to 'DWORD'
+C:\Users\TUNG\Desktop\(55,39): warning C4309: 'argument': truncation of constant value
+C:\Users\TUNG\Desktop\(56,42): warning C4305: 'argument': truncation from '__int64' to 'DWORD'
+C:\Users\TUNG\Desktop\(56,42): warning C4309: 'argument': truncation of constant value
+C:\Users\TUNG\Desktop\(183,50): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+C:\Users\TUNG\Desktop\(183,81): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+C:\Users\TUNG\Desktop\(184,53): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+  Test1.vcxproj -> C:\Users\TUNG\Desktop\#MalwareCollection\TestingProjects\x64\Debug\Calcium.exe
